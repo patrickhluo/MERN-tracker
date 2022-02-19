@@ -11,5 +11,7 @@ The Express will handle the routing and communicate to MongoDB for a number of r
 
 There are also models for how the data is stored in MongoDB, which makes it easier to retrieve.
 
+## Backend
+Before using the app, you will need to put your MongoDB URI in .env file and place it in backend folder.  
 
 I will soon try to deploy the app and update the components asap.
